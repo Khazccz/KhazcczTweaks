@@ -11,4 +11,4 @@ The new batch file to optimize your windows 10 / 11
 
 # Download
 
-You can download the beta version in [RELEASE](https://github.com/Khazccz/KhazcczTweaks/releases/tag/KhazcczTweaks)
+You can download the beta version in [Release(https://github.com/Khazccz/KhazcczTweaks/releases/tag/KhazcczTweaks)
