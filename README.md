@@ -1,7 +1,7 @@
 #   🚀 KhazcczTweaks
 The new batch file to optimize your windows 10 / 11
 
-**Author**: [Khazccz](https://github.com/Khazccz)
+**Author**: [Khazccz](https://github.com/Khazccz) 👤
 
 ![Screenshot](https://i.postimg.cc/XqFnkpv2/screenshot.png)
 
