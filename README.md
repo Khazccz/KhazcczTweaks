@@ -6,9 +6,9 @@ The new batch file to optimize your windows 10 / 11
 ![Screenshot](https://i.postimg.cc/XqFnkpv2/screenshot.png)
 
 
-# Status : UPDATING
+# Status : UPDATING 📈
 
 
-# Download
+# Download 📩
 
 You can download the beta version in [Release](https://github.com/Khazccz/KhazcczTweaks/releases/tag/KhazcczTweaks)
